@@ -3,7 +3,7 @@ package sample;
 public class IfSample {
 
     public static void main(String[] args) {
-        var score = 100; // 成績
+        var score = ３０; // 成績
         
         if (score == 100) {//=が２個ないと値の格納になってしまう
             System.out.println("満点です！");

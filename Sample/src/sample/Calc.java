@@ -23,6 +23,9 @@ public class Calc {
         //割り算
         var result5 = num1 % num2;
         System.out.println("num1 % num2 = " +result5);
+        
+        //複合代入演算子の加算
+        var result10 = num1 ++ 
 
     }
 
